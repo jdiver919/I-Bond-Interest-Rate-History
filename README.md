@@ -5,7 +5,7 @@ This was created using the Treasury Direct I Bond interest rate history chart at
 
 ## About The Files ##
 + The csv file contains the data from the Treasury Direct rate chart.  The last row contains the semiannual inflation rates, like the original chart.
-+ The Excel version contains the following customizations:
++ The Excel version contains the data from the Treasury Direct rate chart with the following customizations:
   - Moved the semiannual inflation rate row to the top
   - Enabled freeze panes in cell C3 to keep the top and left headings visible while scrolling
 
