@@ -9,7 +9,8 @@ This was created using the Treasury Direct I Bond interest rate history chart at
   - Moved the semiannual inflation rate row to the top
   - Enabled freeze panes in cell C3 to keep the top and left headings visible while scrolling
 
-## Instructions to extract and convert the data using [Notepad++](https://notepad-plus-plus.org/) and Excel ##
+## Instructions to extract and convert the data ##
+Prerequisites: Microsoft Windows OS, [Notepad++](https://notepad-plus-plus.org/), and Excel
 1. Open the I Bond rate history pdf file https://www.treasurydirect.gov/files/savings-bonds/i-bond-rate-chart.pdf
 2. Copy the entire rate history table.  *It's ok if you select some of the text above and below the table because you can remove it in Notepad++.*
 3. Open Notepad++
