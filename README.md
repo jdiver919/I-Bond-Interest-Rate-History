@@ -1,5 +1,5 @@
 # I-Bond-Interest-Rate-History
-Treasury Direct I bond interest rate history data in Excel and csv formats.
+Treasury Direct I bond interest rate history data from September 1998 to April 2023 in Excel and csv formats.
 
 This was created using the Treasury Direct I Bond interest rate history chart at https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/
 
