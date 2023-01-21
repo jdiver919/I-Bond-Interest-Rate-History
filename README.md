@@ -3,13 +3,17 @@ Treasury Direct I bond interest rate history data from September 1998 to April 2
 
 This was created using the Treasury Direct I Bond interest rate history chart at https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/
 
-## About The Files ##
+## About the Files ##
 + The csv file contains the data from the Treasury Direct rate chart.  The last row contains the semiannual inflation rates, like the original chart.
 + The Excel version contains the data from the Treasury Direct rate chart with the following customizations:
   - Moved the semiannual inflation rate row to the top
   - Enabled freeze panes in cell C3 to keep the top and left headings visible while scrolling
 
-## Instructions to extract and convert the data ##
+## Extract and Convert the Data ##
+You may want to use these instructions if:
++ There is newer I Bond rate data available than what is posted here in the .csv and .xlsx files
++ You want to extract and convert the data yourself
+
 Prerequisites: Microsoft Windows OS, [Notepad++](https://notepad-plus-plus.org/), and Excel
 1. Open the I Bond rate history pdf file https://www.treasurydirect.gov/files/savings-bonds/i-bond-rate-chart.pdf
 2. Copy the entire rate history table.  *It's ok if you select some of the text above and below the table because you can remove it in Notepad++.*
