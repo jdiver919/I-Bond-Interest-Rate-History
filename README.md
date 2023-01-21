@@ -27,12 +27,15 @@ Prerequisites: Microsoft Windows OS, [Notepad++](https://notepad-plus-plus.org/)
    6. Change the replace field to <kbd>space</kbd>-<kbd>space</kbd>
    7. Click Replace All
    8. Close the Replace window
-9. On the first line, replace the <kbd>tab</kbd> after Issue with a <kbd>space</kbd>.  Add a <kbd>tab</kbd> after Issue Date.  Delete the new line character(s).
-10. Delete the new line character(s) after Fixed.  Insert a <kbd>space</kbd> between Fixed and Rate
-11. Scroll to the last line
-12. Replace the <kbd>tab</kbd> after Semiannual with a <kbd>space</kbd>
-13. Delete the new line character(s).
-14. Insert a <kbd>space</kbd> between Inflation and Rate
-15. Insert a second <kbd>tab</kbd> after Rate
-16. Select all of the text and copy it
-17. Paste the text into a new Excel workbook
+9. On the first line, replace the <kbd>tab</kbd> after Issue with a <kbd>space</kbd>.
+10. Add a <kbd>tab</kbd> after Issue Date.
+11. Delete the new line character(s).
+12. Delete the new line character(s) after Fixed.
+13. Insert a <kbd>space</kbd> between Fixed and Rate
+14. Scroll to the last line
+15. Replace the <kbd>tab</kbd> after Semiannual with a <kbd>space</kbd>
+16. Delete the new line character(s).
+17. Insert a <kbd>space</kbd> between Inflation and Rate
+18. Insert a second <kbd>tab</kbd> after Rate
+19. Select all of the text and copy it
+20. Paste the text into a new Excel workbook
